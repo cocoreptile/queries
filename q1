@@ -1,4 +1,1 @@
-//This is the query to get the best team together!
-SELECT * FROM hs WHERE names = 'H'
-UNION ALL
-SELECT * FROM hs WHERE names = 'S'
+SELECT * FROM hs WHERE names = 'H';
