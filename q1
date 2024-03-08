@@ -1,1 +1,1 @@
-SELECT * FROM hs WHERE names IN ('H', 'S')
+SELECT * FROM hs WHERE names = "HS";
