@@ -1,2 +1,2 @@
--- PostgreSQL
+-- 
 SELECT * FROM hs WHERE names = "HS";
