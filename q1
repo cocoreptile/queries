@@ -1,1 +1,1 @@
-SELECT * FROM hs WHERE names = "HS Team"
+SELECT * FROM hs WHERE names = "HS"
