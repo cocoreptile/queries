@@ -1,1 +1,1 @@
-SELECT * FROM hs WHERE names = "S"
+SELECT * FROM hs WHERE names = "S2"
